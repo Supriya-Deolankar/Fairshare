@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223086888248",
+    "project_id": "fairshare-bcf41",
+    "storage_bucket": "fairshare-bcf41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223086888248:android:281f06882f220eb5d0adcd",
+        "android_client_info": {
+          "package_name": "app.splitty.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxffDOkRQXP910Vjb1DYSYt_6Zfkp_3rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
